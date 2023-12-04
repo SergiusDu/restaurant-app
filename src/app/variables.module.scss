@@ -1,0 +1,7 @@
+$primary-color: rgb(212, 141, 86);
+$text-color: rgb(255, 255, 255);
+
+:export {
+  primaryColor: $primary-color;
+  textColor:$text-color;
+}

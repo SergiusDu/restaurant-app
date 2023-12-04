@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,OAAQ;EACN,YAAY,EAJE,OAAiB;EAK/B,SAAS,EAJE,KAAkB",
+"sources": ["variables.module.scss"],
+"names": [],
+"file": "variables.module.css"
+}
